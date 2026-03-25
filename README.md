@@ -82,6 +82,8 @@ hate_speech_bot3/
 git clone https://github.com/bharathkumarm-2002/nlp-harmful-language-detection.git
 cd nlp-harmful-language-detection
 
+---
+
 ### Step 2: Create Virtual Environment (Optional)
 ```bash
 python -m venv venv
