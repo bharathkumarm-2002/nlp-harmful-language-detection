@@ -84,12 +84,12 @@ cd nlp-harmful-language-detection
 
 ---
 
+
 ### Step 2: Create Virtual Environment (Optional)
+- **Windows**
 ```bash
 python -m venv venv
 venv\Scripts\activate
-
----
 
 ### Step 3: Install Dependencies 
 ```bash
