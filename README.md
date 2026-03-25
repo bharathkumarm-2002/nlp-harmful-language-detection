@@ -89,6 +89,8 @@ cd nlp-harmful-language-detection
 python -m venv venv
 venv\Scripts\activate
 
+---
+
 ### Step 3: Install Dependencies 
 ```bash
 pip install -r requirements.txt
